@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204928",
+    "http://schema.org/name": "http://id.worldcat.org/fast/1204928"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1343000",
+    "http://schema.org/name": "http://id.worldcat.org/fast/1343000"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1351024",
+    "http://schema.org/name": "http://id.worldcat.org/fast/1351024"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1206073",
+    "http://schema.org/name": "http://id.worldcat.org/fast/1206073"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1206731",
+    "http://schema.org/name": "http://id.worldcat.org/fast/1206731"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1206605",
+    "http://schema.org/name": "http://id.worldcat.org/fast/1206605"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1202846",
+    "http://schema.org/name": "http://id.worldcat.org/fast/1202846"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204369",
+    "http://schema.org/name": "http://id.worldcat.org/fast/1204369"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/857234",
+    "http://schema.org/name": "http://id.worldcat.org/fast/857234"
+  }
+]

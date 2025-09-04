@@ -1,0 +1,76 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Book",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": [
+    {
+      "@id": "@base:/media/images"
+    }
+  ],
+  "schema:creator": "Ada Hall",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1938-1941"
+  },
+  "schema:identifier": [
+    "MC-364",
+    "ark:/87293/d3028pm2g"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/MC-364_0001.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Hall, Ada. Photograph Album",
+  "schema:publisher": "Ada Hall",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1204928"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1343000"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1351024"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1206073"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1206731"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1206605"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1202846"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204369"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/857234"
+    }
+  ]
+}
