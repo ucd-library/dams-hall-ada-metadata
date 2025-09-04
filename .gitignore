@@ -1,15 +1,6 @@
-# Source files to ignore
-images/
-venv/
-PDF/
-*.py
-*.sh
-requirements.txt
-metadata.csv
-
-# Keep the generated collection structure
-!collection/
-!items/
+*
+!.gitignore
+!LICENSE
+!*/
 !*.jsonld.json
 !*.md
-!.gitignore
