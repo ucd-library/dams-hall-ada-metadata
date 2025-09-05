@@ -18,7 +18,7 @@
   },
   "schema:name": "Hall, Ada. Photograph Album",
   "schema:description": "This photograph album compiled by Ada Hall, a Chinese American woman living in Vallejo, California, includes many photographs of outings to the 1940 Golden Gate International Exposition at Treasure Island, as well as images of Hall spending time in Vallejo with friends and family. There are also photos of trips to Lake Tahoe, Carson City, Oakland, San Luis Obispo, a lake near Spokane, Washington, and Suisin, China (likely to visit Hall's grandmother). The album additionally contains a series of images of trips to the Chinese Christian Youth Conference at Lake Tahoe in 1938 and 1940, as well as nine interior shots of a National Dollar Store, a prominent Chinese-American owned retailer on the West Coast. Finally, the album contains a large format shot of a \"rice bowl party\" benefit organized by Hall, as well as a newspaper clipping about the event.\n\nThe collection's finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8fj2qt8/).",
-  "schema:creator": "Ada Hall",
+  "schema:creator": "Hall, Ada",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1938-1941"
